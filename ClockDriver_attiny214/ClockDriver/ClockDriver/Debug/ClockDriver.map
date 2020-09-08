@@ -1,0 +1,510 @@
+Archive member included to satisfy reference by file (symbol)
+
+g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+                              G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o (exit)
+g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+                              main.o (__do_clear_bss)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+ .bss           0x00000000        0x0 G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text.read_eeprom
+                0x00000000        0xa main.o
+ .text          0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00802000         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000009         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x803f80
+                0x00008000                __RODATA_PM_OFFSET__ = 0x8000
+LOAD G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+LOAD main.o
+START GROUP
+LOAD g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libm.a
+END GROUP
+START GROUP
+LOAD g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a
+LOAD g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libm.a
+LOAD g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/../../../../avr/lib/avrxmega3/short-calls\libc.a
+LOAD G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls\libattiny214.a
+END GROUP
+                0x00000000                __TEXT_REGION_ORIGIN__ = DEFINED (__TEXT_REGION_ORIGIN__)?__TEXT_REGION_ORIGIN__:0x0
+                0x00802000                __DATA_REGION_ORIGIN__ = DEFINED (__DATA_REGION_ORIGIN__)?__DATA_REGION_ORIGIN__:0x802000
+                0x00100000                __TEXT_REGION_LENGTH__ = DEFINED (__TEXT_REGION_LENGTH__)?__TEXT_REGION_LENGTH__:0x100000
+                0x0000ffa0                __DATA_REGION_LENGTH__ = DEFINED (__DATA_REGION_LENGTH__)?__DATA_REGION_LENGTH__:0xffa0
+                0x00010000                __EEPROM_REGION_LENGTH__ = DEFINED (__EEPROM_REGION_LENGTH__)?__EEPROM_REGION_LENGTH__:0x10000
+                [0x00000009]                __FUSE_REGION_LENGTH__ = DEFINED (__FUSE_REGION_LENGTH__)?__FUSE_REGION_LENGTH__:0x400
+                0x00000400                __LOCK_REGION_LENGTH__ = DEFINED (__LOCK_REGION_LENGTH__)?__LOCK_REGION_LENGTH__:0x400
+                0x00000400                __SIGNATURE_REGION_LENGTH__ = DEFINED (__SIGNATURE_REGION_LENGTH__)?__SIGNATURE_REGION_LENGTH__:0x400
+                0x00000400                __USER_SIGNATURE_REGION_LENGTH__ = DEFINED (__USER_SIGNATURE_REGION_LENGTH__)?__USER_SIGNATURE_REGION_LENGTH__:0x400
+                0x00008000                __RODATA_PM_OFFSET__ = DEFINED (__RODATA_PM_OFFSET__)?__RODATA_PM_OFFSET__:0x8000
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000      0x536
+ *(.vectors)
+ .vectors       0x00000000       0x34 G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000034                . = ALIGN (0x2)
+                0x00000034                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000034        0x0 linker stubs
+ *(.trampolines*)
+                0x00000034                __trampolines_end = .
+ *libprintf_flt.a:*(.progmem.data)
+ *libc.a:*(.progmem.data)
+ *(.progmem*)
+                0x00000034                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000034                __ctors_start = .
+ *(.ctors)
+                0x00000034                __ctors_end = .
+                0x00000034                __dtors_start = .
+ *(.dtors)
+                0x00000034                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000034        0x0 G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+                0x00000034                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000034        0xc G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000040       0x10 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_clear_bss.o)
+                0x00000040                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000050        0x4 G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+ *(.init9)
+ *(.text)
+ .text          0x00000054        0x2 G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+                0x00000054                __vector_22
+                0x00000054                __vector_1
+                0x00000054                __vector_24
+                0x00000054                __vector_12
+                0x00000054                __bad_interrupt
+                0x00000054                __vector_6
+                0x00000054                __vector_23
+                0x00000054                __vector_25
+                0x00000054                __vector_11
+                0x00000054                __vector_13
+                0x00000054                __vector_19
+                0x00000054                __vector_7
+                0x00000054                __vector_5
+                0x00000054                __vector_4
+                0x00000054                __vector_2
+                0x00000054                __vector_21
+                0x00000054                __vector_15
+                0x00000054                __vector_8
+                0x00000054                __vector_14
+                0x00000054                __vector_10
+                0x00000054                __vector_16
+                0x00000054                __vector_18
+                0x00000054                __vector_20
+                0x00000056                . = ALIGN (0x2)
+ *(.text.*)
+ .text.delay_ms
+                0x00000056       0x30 main.o
+                0x00000056                delay_ms
+ .text.write_eeprom
+                0x00000086       0x2c main.o
+                0x00000086                write_eeprom
+ .text.main     0x000000b2      0x310 main.o
+                0x000000b2                main
+ .text.__vector_3
+                0x000003c2       0xea main.o
+                0x000003c2                __vector_3
+ .text.__vector_9
+                0x000004ac       0x40 main.o
+                0x000004ac                __vector_9
+ .text.__vector_17
+                0x000004ec       0x46 main.o
+                0x000004ec                __vector_17
+                0x00000532                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x00000532        0x0 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+                0x00000532                _exit
+                0x00000532                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00000532        0x4 g:/programs/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/5.4.0/avrxmega3/short-calls\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00000536                _etext = .
+
+.rodata
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.r*)
+
+.data           0x00803f80        0x0 load address 0x00000536
+                [!provide]                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.gnu.linkonce.d*)
+                0x00803f80                . = ALIGN (0x2)
+                0x00803f80                _edata = .
+                [!provide]                PROVIDE (__data_end, .)
+
+.bss            0x00803f80       0x19
+                0x00803f80                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.pps_divider
+                0x00803f80        0x2 main.o
+                0x00803f80                pps_divider
+ .bss.out_state
+                0x00803f82        0x1 main.o
+                0x00803f82                out_state
+ .bss.counter_divider
+                0x00803f83        0x1 main.o
+                0x00803f83                counter_divider
+ .bss.counter_dropper
+                0x00803f84        0x1 main.o
+                0x00803f84                counter_dropper
+ .bss.button_cnt
+                0x00803f85        0x1 main.o
+                0x00803f85                button_cnt
+ .bss.pps_flag  0x00803f86        0x1 main.o
+                0x00803f86                pps_flag
+ .bss.tick_cnt  0x00803f87        0x2 main.o
+                0x00803f87                tick_cnt
+ .bss.auto_dimming_enable
+                0x00803f89        0x1 main.o
+                0x00803f89                auto_dimming_enable
+ .bss.backlight_enable
+                0x00803f8a        0x1 main.o
+                0x00803f8a                backlight_enable
+ .bss.pwm_dimming_filtered
+                0x00803f8b        0x2 main.o
+                0x00803f8b                pwm_dimming_filtered
+ .bss.pwm_backlight_filtered
+                0x00803f8d        0x2 main.o
+                0x00803f8d                pwm_backlight_filtered
+ .bss.pwm_dimming_auto
+                0x00803f8f        0x2 main.o
+                0x00803f8f                pwm_dimming_auto
+ .bss.pwm_dimming
+                0x00803f91        0x1 main.o
+                0x00803f91                pwm_dimming
+ .bss.pwm_backlight
+                0x00803f92        0x1 main.o
+                0x00803f92                pwm_backlight
+ .bss.pot_value_filtered
+                0x00803f93        0x2 main.o
+                0x00803f93                pot_value_filtered
+ .bss.light_value_filtered
+                0x00803f95        0x2 main.o
+                0x00803f95                light_value_filtered
+ .bss.pot_value
+                0x00803f97        0x1 main.o
+                0x00803f97                pot_value
+ .bss.light_value
+                0x00803f98        0x1 main.o
+                0x00803f98                light_value
+ *(COMMON)
+                0x00803f99                PROVIDE (__bss_end, .)
+                0x00000536                __data_load_start = LOADADDR (.data)
+                0x00000536                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00803f99        0x0
+                [!provide]                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                [!provide]                PROVIDE (__noinit_end, .)
+                0x00803f99                _end = .
+                [!provide]                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x30
+ *(.comment)
+ .comment       0x00000000       0x30 main.o
+                                 0x31 (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x3c
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x3c G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000       0x50
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x50 main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x19a7
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000     0x1566 G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+ .debug_info    0x00001566      0x441 main.o
+
+.debug_abbrev   0x00000000     0x15c8
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000     0x143e G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+ .debug_abbrev  0x0000143e      0x18a main.o
+
+.debug_line     0x00000000      0x61a
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x136 G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+ .debug_line    0x00000136      0x4e4 main.o
+
+.debug_frame    0x00000000       0xd8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0xd8 main.o
+
+.debug_str      0x00000000      0xc0a
+ *(.debug_str)
+ .debug_str     0x00000000      0x921 G:/Programs/7.0/Packs/atmel/ATtiny_DFP/1.3.229/gcc/dev/attiny214/avrxmega3/short-calls/crtattiny214.o
+ .debug_str     0x00000921      0x2e9 main.o
+                                0x325 (size before relaxing)
+
+.debug_loc      0x00000000      0x18d
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x18d main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000       0x40
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x40 main.o
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(ClockDriver.elf elf32-avr)
+LOAD linker stubs
